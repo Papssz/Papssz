@@ -11,7 +11,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Papssz&theme=jolly&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Papssz&theme=jolly&hide_border=true" alt="Streak Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Papssz&theme=jolly&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="652"/>
 </p>
 
 
